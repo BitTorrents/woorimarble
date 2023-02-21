@@ -15,4 +15,4 @@ T0009 게임시작 기능
 # 피드백
 첫 팀프로젝트이며 짧은 기간안에 많은 기능을 구현하지는 못했지만 프로젝트를 할때는 어떻게 돌아가고 Java언어에 대한 이해도와 원리를 많이 알게 된거같다.
 
-<img width:"80%" src="{https://user-images.githubusercontent.com/97242213/220319185-4e5c1e2d-674f-41bd-844c-6d6462edd200.PNG}/>
+<img src="{https://user-images.githubusercontent.com/97242213/220319185-4e5c1e2d-674f-41bd-844c-6d6462edd200.PNG}"/>
